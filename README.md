@@ -1,1 +1,4 @@
 # Hotel-Booking-Analysis
+This project involved a comprehensive exploration of over 10,000 hotel bookings records to gain valuable business insights. This included understanding guest sources, seasonal price trends, and the optimal length of stay, among other key factors.
+The project's importance lies in its ability to provide the hospitality industry with data-driven intelligence. By conducting in-depth exploratory data analysis and correlation studies, I was able to identify trends and patterns that influence hotel bookings and pricing decisions. Leveraging Python and data visualization tools like Matplotlib and Seaborn, we effectively communicated our findings in a visually compelling manner.
+To predict hotel booking cancellations accurately, I employed machine learning models such as Decision Trees, Random Forest, and Logistic Regression in Python. The result was an impressive 87% accuracy rate achieved with the Random Forest Classifier.
